@@ -6,4 +6,4 @@ Each level is set around a theme with numerous puzzles all made to challenge you
 <img src="./Gnome Mans Land SnapShots/snow.svg">
 <img src="./Gnome Mans Land SnapShots/dessert.svg">
 <img src="./Gnome Mans Land SnapShots/cave.svg">
-# Play the game at https://elyghthao.github.io/GnomeMansLand/
+# [Play The Game Here!](https://elyghthao.github.io/GnomeMansLand/)
